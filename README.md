@@ -5,4 +5,4 @@
 полностью на экран. Есть форма обратной связи для отправки на почту.
 Использовано: HTML, CSS, JavaScript, jQuery, Ajax, PHP и MySQL
 
-ССЫЛКА НА ПРИЛОЖЕНИЕ:   http://alex55555winz-dynamicsite-articles-db.22web.org
+ПОКИ НЕ ЗАДЕПЛОЄНО ЗНОВУ!!!! ( Старая ССЫЛКА НА ПРИЛОЖЕНИЕ:   http://alex55555winz-dynamicsite-articles-db.22web.org )
